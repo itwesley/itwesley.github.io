@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itwesley.github.io</id>
-    <title>itwesley</title>
-    <updated>2019-07-18T18:04:22.825Z</updated>
+    <title>.:: Learning by doing. ::.</title>
+    <updated>2021-07-09T16:51:55.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itwesley.github.io"/>
     <link rel="self" href="https://itwesley.github.io/atom.xml"/>
     <subtitle>The more you know, the more you realize how much you don&apos;t know － the less you know, the more you think you know.     </subtitle>
     <logo>https://itwesley.github.io/images/avatar.png</logo>
     <icon>https://itwesley.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, itwesley</rights>
+    <rights>All rights reserved 2021, .:: Learning by doing. ::.</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://itwesley.github.io/post/hello-gridea</id>
-        <link href="https://itwesley.github.io/post/hello-gridea">
+        <id>https://itwesley.github.io/post/hello-gridea/</id>
+        <link href="https://itwesley.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏歡迎使用Gridea！<br>
